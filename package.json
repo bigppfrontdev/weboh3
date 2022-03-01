@@ -1,0 +1,19 @@
+{
+  "name": "weboh3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigppfrontdev/telephonerschoolap.git"
+  },
+  "author": "basnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigppfrontdev/telephonerschoolap/issues"
+  },
+  "homepage": "https://github.com/bigppfrontdev/telephonerschoolap#readme"
+}
