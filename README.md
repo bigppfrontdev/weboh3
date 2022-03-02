@@ -1,1 +1,1 @@
-https://damp-brushlands-44899.herokuapp.com/api/persons
+https://damp-brushlands-44899.herokuapp.com/
