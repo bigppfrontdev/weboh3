@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bigppfrontdev/telephonerschoolap.git"
+    "url": "git+https://github.com/bigppfrontdev/weboh3.git"
   },
   "author": "basnu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bigppfrontdev/telephonerschoolap/issues"
+    "url": "https://github.com/bigppfrontdev/weboh3.git/issues"
   },
-  "homepage": "https://github.com/bigppfrontdev/telephonerschoolap#readme",
+  "homepage": "https://github.com/bigppfrontdev/weboh3.git#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.3"
